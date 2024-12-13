@@ -1,0 +1,15 @@
+[package]
+name = "aoc2024"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+members = [
+    "day01"
+]
+
+[dependencies]
+color-eyre = "0.6.3"
+crossterm = "0.28.1"
+day01 = { path = "day01" }
+ratatui = "0.29.0"

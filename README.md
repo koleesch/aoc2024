@@ -1,3 +1,5 @@
-# rust_dataengineering_template
+# Advent Of Code 2024
 
-This is a general template for dataengineering projects in rust.
+This project provides some solutions of the advent of code 2024.
+
+I want to build an TUI-Application for it.
